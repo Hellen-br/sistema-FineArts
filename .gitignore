@@ -1,0 +1,13 @@
+# Build
+target/
+*.class
+# Credenciais locais (use application.properties.example como modelo)
+config/application.properties
+# IDEs
+nbproject/private/
+.idea/
+*.iml
+.vscode/
+# Sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+# Copie este arquivo para config/application.properties e ajuste os valores.
+# O arquivo application.properties NÃO é versionado (veja .gitignore).
+db.url=jdbc:mysql://localhost:3306/finearts?useSSL=false&serverTimezone=America/Sao_Paulo&allowPublicKeyRetrieval=true
+db.user=root
+db.password=SUA_SENHA_AQUI
